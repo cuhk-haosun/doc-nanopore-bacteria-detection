@@ -13,11 +13,11 @@ But all of them need to amplify the DNA so that the sample can get the sequencin
 
 By the way, there are two similar issues, one is the original one, the other is the figure version, which means there's only figures.
 # Excel
-"simple conclusion for each paper" is a simple summary of all the issues mentioned above
+**"simple conclusion for each paper" **is a simple summary of all the issues mentioned above
 
 You can easily find the purpose of each issue as well as the application of nanopore 
 # PPT
-"water detection" can be seen as a expanded version of excel file.
+**"water detection"** can be seen as a expanded version of excel file.
 
 It contains the more detailed purpose, sequencing process, sequecing results and so on
 
@@ -25,7 +25,7 @@ You can also get the original website for each paper in ppt
 
 And it also shows if there's possible to get the raw data or code
 # Bussiness plan
-File "Nanopore-integration-clinic" is not the water detection issue, actually is a business plan about the sequencing technology used in clinic
+File **"Nanopore-integration-clinic"** is not the water detection issue, actually is a business plan about the sequencing technology used in clinic
 
 The author claim he puts the MinION platform in the clinic and set up the integration machine.
 
