@@ -13,11 +13,11 @@ But all of them need to amplify the DNA so that the sample can get the sequencin
 
 By the way, there are two similar issues, one is the original one, the other is the figure version, which means there's only figures.
 # Excel
-This file is a simple summary of all the issues mentioned above
+"simple conclusion for each paper" is a simple summary of all the issues mentioned above
 
 You can easily find the purpose of each issue as well as the application of nanopore 
 # PPT
-This file can be seen as a expanded version of excel file.
+"water detection" can be seen as a expanded version of excel file.
 
 It contains the more detailed purpose, sequencing process, sequecing results and so on
 
