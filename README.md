@@ -25,9 +25,9 @@ You can also get the original website for each paper in ppt
 
 And it also shows if there's possible to get the raw data or code
 # Bussiness plan
-This is not the water detection issue, actually is a business plan about the sequencing technology used in clinic
+File "Nanopore-integration-clinic" is not the water detection issue, actually is a business plan about the sequencing technology used in clinic
 
-The author claim he puts the MinION platform in the clinic and set up the intergretion machine.
+The author claim he puts the MinION platform in the clinic and set up the integration machine.
 
 However, there's only few things about the key part in machine, you can contact with the author if you are interested in the machine or technology
 
